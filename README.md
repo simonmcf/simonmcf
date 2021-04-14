@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding (Python), natural language processing (Spacy), and infrastructure as code (Ansible).
 - 🌱 I’m currently learning Python, Spacy and Ansible
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ...
+- 📫 Reach me on github
 
 <!---
 simonmcf/simonmcf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
